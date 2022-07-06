@@ -1,14 +1,21 @@
 .header-section {
     background: #FFFFFF;
-    position: relative;
-    padding: 13px 0;
+    padding-top: 13.86px;
 }
 
-.container {
+.header-bg-shadow1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.header-section .container {
     padding: 0 150px;
+    position: relative;
+    z-index: 1000;
 }
-
-.header-section .header-shadow {
+ 
+.header-shadow2 {
     position: absolute;
     right: 0;
     top: 0;
@@ -36,6 +43,7 @@
     list-style: none;
     
 }
+
 .menu-list ul li {
     display: inline;
     margin: 0 10px;
@@ -73,4 +81,5 @@
     text-align: center;
     text-transform: uppercase;
     color: #FFFFFF;
+    cursor: pointer;
 }

@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from '../assets/images/logo.png';
-import headerShadow from '../assets/images/header-shadow.png';
+import headerShadow2 from '../assets/images/header-shadow.png';
+import headerShadow1 from '../assets/images/hero-shadow.png';
 import '../styles/header.css';
 
 
@@ -9,7 +10,12 @@ const Header = () => {
   return (
     <div>
         <div className="header-section">
-            <img className='header-shadow' src={headerShadow} alt="" />
+            <div className="header-bg-shadow1">
+                <img src={headerShadow1} alt="" />
+            </div>
+            <div className="header-shadow2">
+                <img src={headerShadow2} alt="" />
+            </div>
             <div className="container">
                 <div className="nav">
                     <div className="logo">
@@ -34,6 +40,7 @@ const Header = () => {
 
                 </div>
             </div>
+            
         </div>
     </div>
   )
