@@ -60,5 +60,6 @@
 
 .playButton {
     position: absolute;
+    cursor: pointer;
     
 }

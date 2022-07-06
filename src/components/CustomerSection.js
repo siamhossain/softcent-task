@@ -15,7 +15,7 @@ import APPSERO from '../assets/images/appsero.png';
             <div className="container">
                 <div className="our-customers-heading">
                     <h1>Our Customers</h1>
-                    <div className="hero-heading-underline">
+                    <div className="customer-heading-underline">
                         <img src={customerUnderline} alt="" />
                     </div>
                 </div>  
