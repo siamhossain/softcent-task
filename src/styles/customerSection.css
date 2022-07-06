@@ -1,0 +1,29 @@
+.customer-section {
+    position: relative;
+    padding: 126px 0 164px 0;
+}
+
+.customer-section .container {
+    padding: 0 150px;
+}
+
+.our-customers-heading {
+    
+}
+
+.our-customers-heading h1 {
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    text-align: center;
+    color: #040415;
+}
+
+.customers-logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 77px;
+}

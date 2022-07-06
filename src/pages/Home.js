@@ -1,4 +1,5 @@
 import React from 'react'
+import CustomerSection from '../components/CustomerSection';
 import Header from '../components/Header';
 import HeroSection from '../components/HeroSection';
 
@@ -7,6 +8,7 @@ const Home = () => {
     <div>
         <Header />
         <HeroSection/>
+        <CustomerSection/>
     </div>
   )
 }

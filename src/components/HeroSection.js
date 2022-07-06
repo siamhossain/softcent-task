@@ -12,7 +12,7 @@ import playButton from '../assets/icons/ic_play.png';
         <div className="hero-section">
             <div className="container">
                 <div className="hero-text-content">
-                    <div className="heading-underline">
+                    <div className="hero-heading-underline">
                         <img src={headingUnderline} alt="" />
                     </div>
                     <h1 className="hero-heading">
