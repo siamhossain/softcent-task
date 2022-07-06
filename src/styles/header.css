@@ -1,0 +1,76 @@
+.header-section {
+    background: #FFFFFF;
+    position: relative;
+    padding: 13px 0;
+}
+
+.container {
+    padding: 0 150px;
+}
+
+.header-section .header-shadow {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav .logo img{
+    width: 132px;
+    height: 87px;
+}
+
+.menu-list {
+    text-align: right;
+    flex-grow: 1;
+}
+
+.menu-list ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    
+}
+.menu-list ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+.menu-list ul li a{
+    padding: 5px 10px;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    text-transform: uppercase;
+    color: rgba(4, 4, 21, 0.8);
+    text-decoration: none;
+}
+
+.header-btn {
+    margin-left: 18px;   
+}
+
+.header-btn button {
+    width: 193.46px;
+    height: 50px;
+    background: #3088FF;
+    box-shadow: 16px 16px 28px rgba(48, 136, 255, 0.1);
+    border-radius: 8px;
+    border: none;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
