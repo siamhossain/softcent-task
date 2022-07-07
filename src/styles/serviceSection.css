@@ -1,0 +1,157 @@
+.service-section {
+    
+}
+
+.service-section .container{
+    padding: 0 150px;
+}
+
+.service-content-area {
+    
+}
+
+.service-content-area h1{
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    color: #040415;
+    text-align: left;
+}
+
+.service-heading-underline {
+    text-align: left;
+}
+
+ul {
+    list-style: none;
+    text-align: left;
+}
+
+.services {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 61.58px;
+}
+
+
+    /* Branding */
+
+.branding .branding-title {
+    text-align: left;
+    display: flex;
+    align-items: center;
+}
+
+.branding .branding-title img{
+    margin-right: 13.75px;
+}
+
+.branding .branding-title h4 {
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 32px;
+    color: rgba(4, 4, 21, 0.8);
+    text-align: left;
+}
+
+.branding-list {
+    margin-top: 32px;
+}
+
+.branding-list ul li {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 32px;
+    color: rgba(4, 4, 21, 0.8);
+    margin-bottom: 25.51px;
+}
+
+        
+    /* branding End*/
+
+
+
+    /* UI/UX Design */
+
+
+    .ui-ux-design .design-title {
+        text-align: left;
+        display: flex;
+        align-items: center;
+    }
+    
+    .ui-ux-design .design-title img{
+        margin-right: 20.84px;
+    }
+    
+    .ui-ux-design .design-title h4 {
+        font-family: 'Overlock';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 28px;
+        line-height: 32px;
+        color: rgba(4, 4, 21, 0.8);
+        text-align: left;
+    }
+    
+    .design-list {
+        margin-top: 32px;
+    }
+    
+    .design-list ul li {
+        font-family: 'Nunito';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 22px;
+        line-height: 32px;
+        color: rgba(4, 4, 21, 0.8);
+        margin-bottom: 25.51px;
+    }
+
+        /* UI/UX Design End*/
+
+
+
+        /* Development */
+
+.development .development-title {
+    text-align: left;
+    display: flex;
+    align-items: center;
+}
+
+.development .development-title img{
+    margin-right: 20.84px;
+}
+
+.development .development-title h4 {
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 32px;
+    color: rgba(4, 4, 21, 0.8);
+    text-align: left;
+}
+
+.development-list {
+    margin-top: 32px;
+}
+
+.development-list ul li {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 32px;
+    color: rgba(4, 4, 21, 0.8);
+    margin-bottom: 25.51px;
+}
+
+    /* Development End*/
