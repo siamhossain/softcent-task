@@ -1,0 +1,124 @@
+.product-section {
+    padding: 79.46px 0 0 0; 
+    background: #F9F9F9;
+    ;
+    
+}
+
+.product-section .container {
+    padding: 0 150px;
+}
+
+.product-heading-area {
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 93.91px;
+}
+
+.product-heading-area h1 {
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    color: #040415;
+}
+
+.product-heading-area p {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    color: rgba(4, 4, 21, 0.6);
+    width: 582.47px;
+    margin-top: 24.78px;
+}
+
+.see-more-btn {
+    margin-top: 90px;
+}
+
+.see-more-btn button {
+    width: 157.35px;
+    height: 52px;
+    background: #2D5BFF;
+    border-radius: 7px;
+    border: none;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;;
+}
+
+.product-and-details1 {
+    display: flex;
+    margin-left: 150px;
+}
+
+.product-and-details2 {
+    display: flex;
+    margin-right: 150px;
+}
+
+.product-text-content {
+    text-align: left;
+    background: #FFFFFF;
+    width: 570.99px;
+    height: 585.27px;
+    padding: 128.88px 0 0 65.37px;
+}
+
+.product-text-content h1{
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    color: #040415;
+    margin-bottom: 34.84px;
+}
+
+.product-text-content p{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: rgba(4, 4, 21, 0.8);
+    Width: 444.85px;
+    Height: 159.83px;
+    margin-bottom: 34.84px;
+}
+
+.product-text-content .view-product-btn button{
+    width: 159.35px;
+    height: 52px;
+    left: 215.37px;
+    top: 3139.22px;
+    background: rgba(48, 136, 255, 0.12);
+    border-radius: 7px;
+    border: none;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    text-align: center;
+    color: rgba(4, 4, 21, 0.8);
+    cursor: pointer;
+}
+
+.product-img {
+    height: 585.27px;
+}
+
+.product-img img {
+    width: 100%;
+    height: 585.27px;
+}
