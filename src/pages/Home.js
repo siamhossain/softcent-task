@@ -4,6 +4,7 @@ import DesignTechnology from '../components/DesignTechnology';
 import Footer from '../components/Footer';
 import Header from '../components/Header';
 import HeroSection from '../components/HeroSection';
+import Portfolio from '../components/Portfolio';
 import PricingSection from '../components/PricingSection';
 import ProductSection from '../components/ProductSection';
 import ServiceSection from '../components/ServiceSection';
@@ -20,6 +21,7 @@ const Home = () => {
         <ProductSection/>
         <PricingSection/>
         <Testimonials/>
+        <Portfolio/>
         <DesignTechnology/>
         <Workflow/>
         <Footer/>

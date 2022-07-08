@@ -1,0 +1,87 @@
+.portfolio-section {
+    margin-top: 151px;
+}
+
+.portfolio-section .container {
+    padding: 0 150px;
+}
+
+.portfolio-heading-area {
+    text-align: left;
+    margin-bottom: 47.99px;
+}
+
+.portfolio-heading-area h1 {
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    color: #040415;
+}
+
+
+.portfolio-slider .slick-dots li button:before {
+    color: red;
+    padding-top: 25px;
+}
+
+.portfolio-slider .slick-prev {
+    left: 950px;
+    top: -47px;
+    background-color: #fff;
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    border: 1px solid rgba(45, 91, 255, 0.23);
+}
+
+.portfolio-slider .slick-next {
+    right: 0;
+    top: -47px;   
+    background-color: #fff;
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    border: 1px solid rgba(45, 91, 255, 0.23);
+}
+
+.portfolio-slider img {
+    width: 95% !important;
+    border-radius: 5px;
+}
+
+
+
+
+.slick-prev:before, .slick-next:before {
+    font-family: 'slic' !important;
+    font-size: 30px !important;
+    color: rgba(45, 91, 255, 0.39) !important;
+    border-radius: 50%;
+    padding: 5px 7px;
+}
+
+.slick-next:hover  {
+    background: #2D5BFF !important;
+    box-shadow: 10px 10px 22px rgba(45, 91, 255, 0.28) !important;
+    color: #fff !important;
+}
+
+.slick-prev:hover::before  {
+    background: #2D5BFF !important;
+    box-shadow: 10px 10px 22px rgba(45, 91, 255, 0.28) !important;
+    color: #fff !important;
+    transition: 0.5s;
+}
+
+.slick-next:hover::before  {
+    background: #2D5BFF !important;
+    box-shadow: 10px 10px 22px rgba(45, 91, 255, 0.28) !important;
+    color: #fff !important;
+    transition: 0.5s;
+}
+
+.portfolio-slider .slick-prev {
+    right: 70px !important;
+}
