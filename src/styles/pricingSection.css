@@ -1,0 +1,180 @@
+.pricing-section {
+    padding: 146.18px 0 0 0;
+}
+
+.pricing-section .container{
+    padding: 0 150px;
+}
+
+.pricing-heading {
+
+}
+
+.pricing-heading h1 {
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    text-align: center;
+    color: #040415;
+    margin-bottom: 9px;
+}
+
+.sub-text {
+    text-align: center;
+    margin-top: 18.78px;
+}
+
+.sub-text p{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    text-align: center;
+    color: rgba(4, 4, 21, 0.6);
+}
+
+.pricing-policy-btn {
+    margin-top: 40px; 
+}
+
+.pricing-policy-active-btn {
+    background: #2D5BFF !important;
+    color:#FFFFFF !important;
+    
+}
+
+.pricing-policy-btn .monthly-btn{
+    width: 135px;
+    height: 48px;
+    background: rgba(48, 136, 255, 0.16);
+    border-radius: 7px;
+    border: none;
+    margin-right: 19.62px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #000000;
+    cursor: pointer;
+}
+
+.pricing-policy-btn .yearly-btn {
+    width: 135.44px;
+    height: 48px;
+    left: 729.59px;
+    top: 4386.52px;
+    border-radius: 7px;
+    border: none;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    cursor: pointer;
+}
+
+
+/* Pricing */
+
+.pricing-table-area {
+    margin-top: 83.8px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.pricing-table {
+    width: 349.09px;
+    height: 569.99px;
+    left: 151.07px;
+    top: 4518.32px;
+    background: rgba(48, 136, 255, 0.05);
+    border-radius: 12px;
+    padding: 20.79px 17.84px 0 16.66px;
+    cursor: pointer;
+}
+
+.pricing-table:hover {
+    background: #2D5BFF;
+    transition: 0.5s;
+    color: #FFFFFF;
+    
+}
+
+.pricing-table-heading {
+    display: flex;
+    justify-content: space-between;
+}
+
+.pricing-table-title h3 {
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    color: #040415;
+}
+
+.title-border {
+    border-bottom: 10px solid #F6A00E;
+    border-radius: 2px;
+    margin-top: -9px;
+}
+
+.price h4{
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: right;
+    color: #040415;
+    margin-bottom: 44.86px;
+}
+
+.pricing-feature-list ul li {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #040415;
+    margin-bottom: 18.82px;
+}
+
+.pricing-feature-list ul li::before {
+    content: "";
+    display: inline-block;
+    transform: rotate(45deg);
+    height: 12px;
+    width: 6px;
+    border-bottom: 1.5px solid #040415;
+    border-right: 1.5px solid #040415;
+    margin-right: 15px;
+    margin-left: 6px;
+}
+
+.pricing-table-button {
+    margin-top: 48.76px;
+}
+
+.pricing-table-button button{
+    width: 273.22px;
+    height: 46px;
+    left: 583.39px;
+    top: 5015.28px;
+    background: #F6A00E;
+    border-radius: 12px;
+    cursor: pointer;
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+    border: none;
+}

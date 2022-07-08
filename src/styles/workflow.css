@@ -1,0 +1,24 @@
+
+
+.workflow-section {
+    background: url("../assets/images/workflow-bg.png");
+    height: 200px;
+}
+
+.workflow-section .container {
+    
+}
+
+.workflow-heading {
+    text-align: center;   
+}
+
+.workflow-heading h1{
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    text-align: center;
+    color: #040415;
+}

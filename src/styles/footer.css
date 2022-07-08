@@ -1,0 +1,173 @@
+.footer-section {
+    background: url('../assets//images/footer-bg.png');
+    margin-top: 135px;
+    padding-top: 55.61px;
+}
+
+.footer-section .container {
+    padding: 0 150px;
+}
+
+.start-project-area {
+    height: 180px;
+    left: 148.68px;
+    top: 8747.61px;
+    background: #2D5BFF;
+    border-radius: 12px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.start-project-area h1{
+    font-family: Overlock;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 46px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-left: 55.38px;
+}
+
+.start-project-area button{
+    width: 197.86px;
+    height: 60.52px;
+    left: 1025.23px;
+    top: 8807.35px;
+    background: #FFFFFF;
+    border-radius: 7px;
+    border: none;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #2D5BFF;
+    margin-right: 64.53px;
+    cursor: pointer;
+}
+
+.footer-info {
+    margin-top: 72.39px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-details {
+    text-align: left;
+}
+
+.text {
+    width: 256.19px;
+    margin-top: 11.1px;
+    margin-bottom: 21.65px;
+}
+
+.footer-details .text span {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: rgba(4, 4, 21, 0.6);
+    text-align: left;
+}
+
+.footer-details p {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: rgba(4, 4, 21, 0.8);
+    margin-bottom: 14.1px;
+}
+
+.social-icons{
+    margin-top: 16px;
+}
+
+.facebook:hover {
+    color: #2C82FF !important;
+    transition: 0.4s;
+}
+.whatsapp:hover {
+    color: #25d366 !important;
+    transition: 0.4s;
+}
+.twitter:hover {
+    color: #1da1f2 !important;
+    transition: 0.4s;
+}
+.instagram:hover {
+    color: #c32aa3 !important;
+    transition: 0.4s;
+}
+
+.social-icons svg{
+    color: rgba(4, 4, 21, 0.46);
+    margin-right: 15.89px;
+    cursor: pointer;
+}
+
+.social-icons svg:hover {
+    color: #2C82FF;
+}
+
+
+
+.social-icons {
+
+}
+
+.footer-content {
+    text-align: left;
+}
+
+.footer-content .content-title h5 {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 22px;
+    color: #040415;
+}
+
+.content-list {
+    margin-top: 25.67px;
+}
+
+.content-list ul li {
+    margin-bottom: 12.14px;
+}
+
+.content-list ul li a{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: rgba(4, 4, 21, 0.6);
+}
+
+.footer-bottom {
+    margin-top: 74.54px;
+    border-top: 1px solid rgba(4, 4, 21, 0.16);
+    padding: 27.49px 0 32.6px 0;
+}
+
+.footer-bottom span {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: rgba(4, 4, 21, 0.6);
+}
+

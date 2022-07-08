@@ -1,10 +1,13 @@
 import React from 'react'
 import CustomerSection from '../components/CustomerSection';
 import DesignTechnology from '../components/DesignTechnology';
+import Footer from '../components/Footer';
 import Header from '../components/Header';
 import HeroSection from '../components/HeroSection';
+import PricingSection from '../components/PricingSection';
 import ProductSection from '../components/ProductSection';
 import ServiceSection from '../components/ServiceSection';
+import Workflow from '../components/Workflow';
 
 const Home = () => {
   return (
@@ -14,7 +17,10 @@ const Home = () => {
         <CustomerSection/>
         <ServiceSection/>
         <ProductSection/>
+        <PricingSection/>
         <DesignTechnology/>
+        { /*<Workflow/> */}
+        <Footer/>
     </div>
   )
 }
