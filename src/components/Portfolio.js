@@ -72,6 +72,10 @@ const Portfolio = () => {
                         <img src={uiDesign} alt="" />
                     </Slider>
                 </div>
+
+                <div className="portfolio-btn">
+                    <button>See All Protfolio</button>
+                </div>
             </div>
         </div>
     </div>

@@ -27,12 +27,13 @@
     align-items: center;
 }
 
-.nav .logo img{
+.logo img{
     width: 132px;
     height: 87px;
 }
 
 .menu-list {
+    list-style: none;
     text-align: right;
     flex-grow: 1;
 }

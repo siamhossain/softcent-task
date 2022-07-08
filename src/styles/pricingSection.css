@@ -104,6 +104,25 @@
     
 }
 
+.pricing-table:hover .pricing-table-title h3 {
+    color: #fff !important;
+}
+
+.pricing-table:hover .price h4 {
+    color: #fff !important;
+}
+
+.pricing-table:hover .pricing-feature-list ul li {
+    color: #fff !important;
+}
+
+.pricing-table:hover .pricing-feature-list ul li::before {
+    border-bottom: 1.5px solid #fff !important;
+    border-right: 1.5px solid #fff !important;
+}
+
+
+
 .pricing-table-heading {
     display: flex;
     justify-content: space-between;

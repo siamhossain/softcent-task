@@ -85,3 +85,25 @@
 .portfolio-slider .slick-prev {
     right: 70px !important;
 }
+
+.portfolio-btn {
+    margin-top: 88px;
+}
+
+.portfolio-btn button{
+    width: 201.04px;
+    height: 52px;
+    left: 619.48px;
+    top: 6542px;
+    border: none;
+    background: #2D5BFF;
+    border-radius: 7px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    cursor: pointer;
+
+}

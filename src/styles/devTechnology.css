@@ -1,0 +1,50 @@
+.dev-tech-section {
+    padding: 142.45px 0 118.61px 0;
+}
+
+.dev-tech-section .container {
+    padding: 0 150px;
+}
+
+.dev-tech-heading {
+    
+}
+
+.dev-tech-heading h1 {
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    text-align: center;
+    color: #040415;
+}
+
+.dev-tech-logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 94.52px;
+}
+
+.tab {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 54.4px;
+}
+.tab button {
+    background: transparent;
+    border: none;
+    border-bottom: 4px solid rgba(45, 91, 255, 0.1);
+    padding: 10px 15px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    color: #040415;
+}
+
+
