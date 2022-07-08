@@ -1,0 +1,94 @@
+.testimonial-section {
+    margin-top: 128.38px;
+}
+
+.testimonial-section .container{
+    padding: 0 150px;
+}
+
+.testimonial-heading {
+    text-align: center;
+}
+
+.testimonial-heading h1{
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    text-align: center;
+    color: #040415;
+}
+
+.testimonial-content-area {
+    margin-top: 58.73px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.testimonial-qoute {
+    text-align: left;
+}
+.quote-text {
+    position: relative;
+    display: inline-block;
+}
+
+.quote-text .quote1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.quote-text .quote2 {
+    position: absolute;
+    bottom: -24px;
+    right: 116px;
+}
+
+.quote-text p{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 34px;
+    color: rgba(4, 4, 21, 0.6);
+    width: 457.33px;
+    margin: 30px 0px 0 66px;
+
+}
+ 
+.testimonial-avatar {
+    display: flex;
+    margin-top: 55.5px;
+    margin-left: 66px;
+}
+
+.testimonial-avatar img {
+    margin-right: 20px;
+}
+
+.comment-info .name {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 34px;
+    color: rgba(4, 4, 21, 0.8);
+}
+
+.comment-info .designation {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: rgba(4, 4, 21, 0.8);
+}
+
+.testimonial-img {
+    Width: 383.44px;
+    Height: 383.44px;
+}

@@ -7,6 +7,7 @@ import HeroSection from '../components/HeroSection';
 import PricingSection from '../components/PricingSection';
 import ProductSection from '../components/ProductSection';
 import ServiceSection from '../components/ServiceSection';
+import Testimonials from '../components/Testimonials';
 import Workflow from '../components/Workflow';
 
 const Home = () => {
@@ -18,8 +19,9 @@ const Home = () => {
         <ServiceSection/>
         <ProductSection/>
         <PricingSection/>
+        <Testimonials/>
         <DesignTechnology/>
-        { /*<Workflow/> */}
+        <Workflow/>
         <Footer/>
     </div>
   )

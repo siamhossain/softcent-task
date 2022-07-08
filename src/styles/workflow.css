@@ -2,11 +2,12 @@
 
 .workflow-section {
     background: url("../assets/images/workflow-bg.png");
-    height: 200px;
+    padding: 68.91px 0 78px 0;
+    
 }
 
 .workflow-section .container {
-    
+    padding: 0 150px;
 }
 
 .workflow-heading {
@@ -21,4 +22,45 @@
     line-height: 46px;
     text-align: center;
     color: #040415;
+}
+
+.workflow-content-area {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 85.41px;
+}
+
+.workflow-list ol li {
+    font-family: 'Overlock';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: #040415;
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+.workflow-list ol li:first-child {
+    background-color: #FFFFFF;
+    padding: 25px;
+    border-left: 2.73px solid #2D5BFF;
+    border-left: -5px;
+}
+
+.workflow-list ol li:first-child span{
+    width: 438.43px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(4, 4, 21, 0.6);
+
+
+}
+
+.workflow-img {
+    margin-left: 28px;
 }
