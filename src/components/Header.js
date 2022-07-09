@@ -18,26 +18,31 @@ const Header = () => {
             </div>
             <div className="container">
                 <div className="nav">
-
-                    <div className="logo">
-                        <a href="/">
-                            <img src={logo} alt="" />
-                        </a>
-                    </div>
-
-                    <div className="menu-list">
-                        <ul>
-                            <li><a href="/" className="active">Home</a></li>
-                            <li><a href="#about">About</a></li>
-                            <li><a href="#services">Work</a></li>
-                            <li><a href="#portfolio">Premium Products</a></li>
-                            <li><a href="#blog">Blog</a></li>
-                        </ul>
-                    </div>
-
-                    <div className="header-btn">
-                        <button>Start a project</button>
-                    </div>
+                    <table>
+                        <tr>
+                            <td>
+                                <div className="logo">
+                                    <a href="/">
+                                        <img src={logo} alt="" />
+                                    </a>
+                                </div>
+                            </td>
+                            <td>
+                                <ul>
+                                    <li><a href="/" className="active">Home</a></li>
+                                    <li><a href="#about">About</a></li>
+                                    <li><a href="#services">Work</a></li>
+                                    <li><a href="#portfolio">Premium Products</a></li>
+                                    <li><a href="#blog">Blog</a></li>
+                                </ul>
+                            </td>
+                            <td>
+                                <div className="header-btn">
+                                    <button>Start a project</button>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
 
                 </div>
             </div>

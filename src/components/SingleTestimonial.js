@@ -4,6 +4,8 @@ import quote1 from '../assets/images/quote-1.png';
 import quote2 from '../assets/images/quote-2.png';
 import avatar from '../assets/images/avatar.png';
 import testimonial from '../assets/images/testimonial.png';
+import Shape from "../assets/images/Shape.png";
+
 
 
 

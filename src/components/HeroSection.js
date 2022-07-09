@@ -3,6 +3,7 @@ import '../styles/heroSection.css';
 import heroVideo from '../assets/images/hero-video.png';
 import headingUnderline from '../assets/images/hero-heading-underline.png';
 import playButton from '../assets/icons/ic_play.png';
+import Shape from "../assets/images/Shape.png";
 
 
 
@@ -10,6 +11,9 @@ import playButton from '../assets/icons/ic_play.png';
   return (
     <div>
         <div className="hero-section">
+            <div className="shape">
+                <img src={Shape} alt="" />
+            </div>
             <div className="container">
                 <div className="hero-text-content">
                     <div className="hero-heading-underline">
