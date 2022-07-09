@@ -5,9 +5,9 @@
     
 }
 
-.product-section .container {
+/* .product-section .container {
     padding: 0 150px;
-}
+} */
 
 .product-heading-area {
     text-align: left;
@@ -63,7 +63,7 @@
 
 .product-and-details2 {
     display: flex;
-    margin-right: 150px;
+    /* margin-right: 150px; */
 }
 
 .product-text-content {

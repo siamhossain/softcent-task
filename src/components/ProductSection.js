@@ -22,6 +22,7 @@ const ProductSection = () => {
                     </div>
                 </div>
             </div>
+            
             <div className="product-and-details1">
                 <div className="product-text-content">
                     <h1>SwipeXYZ Product</h1>
@@ -34,6 +35,7 @@ const ProductSection = () => {
                     <img src={Product1} alt="" />
                 </div>
             </div>
+
             <div className="product-and-details2">
                 <div className="product-img">
                     <img src={Product2} alt="" />

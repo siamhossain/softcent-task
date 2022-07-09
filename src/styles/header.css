@@ -10,9 +10,11 @@
 }
 
 .header-section .container {
-    padding: 0 150px;
+    width: 1140px;
     position: relative;
     z-index: 1000;
+    margin-left: auto;
+    margin-right: auto;
 }
  
 .header-shadow2 {
@@ -21,8 +23,16 @@
     top: 0;
 }
 
+.nav {
+    height: 87.84px;
+}
+
 .nav table {
     width: 100%;
+}
+
+.nav table td{
+    border: 1px solid red;
 }
 
 .nav table td:nth-child(1) {
