@@ -14,7 +14,7 @@ const Workflow = () => {
                 <div className="workflow-heading">
                     <h1>Workflow</h1>
                     <div className="workflow-heading-underline">
-                        <img src={workflowUnderline} alt="" />
+                        <img src={workflowUnderline} alt="workflowUnderline" />
                     </div>
                 </div>  
         
@@ -29,7 +29,7 @@ const Workflow = () => {
                         </ol>
                     </div>
                     <div className="workflow-img">
-                          <img src={workflow} alt="" />
+                          <img src={workflow} alt="workflow" />
                     </div>
                 </div>
             </div>

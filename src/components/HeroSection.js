@@ -12,12 +12,12 @@ import Shape from "../assets/images/Shape.png";
     <div>
         <div className="hero-section">
             <div className="shape">
-                <img src={Shape} alt="" />
+                <img src={Shape} alt="Shape" />
             </div>
             <div className="container">
                 <div className="hero-text-content">
                     <div className="hero-heading-underline">
-                        <img src={headingUnderline} alt="" />
+                        <img src={headingUnderline} alt="headingUnderline" />
                     </div>
                     <h1 className="hero-heading">
                         Software services for startups without limits..
@@ -27,8 +27,8 @@ import Shape from "../assets/images/Shape.png";
                     </p>
                 </div>
                 <div className="video-content">
-                    <img className="video-img" src={heroVideo} alt="" />
-                    <img className="playButton" src={playButton} alt="" />
+                    <img className="video-img" src={heroVideo} alt="heroVideo" />
+                    <img className="playButton" src={playButton} alt="playButton" />
                 </div>
             </div>
         </div>

@@ -11,7 +11,7 @@ const Footer = () => {
     <div>
         <div className="footer-section">
             <div className="container">
-            
+
                 <div className="start-project-area">
                     <h1>Looking for a <br/>Software Partner?</h1>
                     <button>Start a project</button>
@@ -20,7 +20,7 @@ const Footer = () => {
 
                 <div className="footer-info">
                     <div className="footer-details">
-                        <img src={logo} alt="" />
+                        <img src={logo} alt="flogo" />
                         <div className="text">
                             <span>Get a fully stacked design team that will give you accessible design, exhaustive research, and an outstanding experience.
                             </span>

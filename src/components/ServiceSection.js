@@ -12,13 +12,13 @@ const ServiceSection = () => {
                 <div className="service-content-area">
                     <h1>What We Do</h1>
                     <div className="service-heading-underline">
-                        <img src={ServiceHeadingUnderline} alt="" />
+                        <img src={ServiceHeadingUnderline} alt="ServiceHeadingUnderline" />
                     </div>
 
                     <div className="services">
                         <div className="branding">
                             <div className="branding-title">
-                                <img src={BrandingIcon} alt="" />
+                                <img src={BrandingIcon} alt="BrandingIcon" />
                                 <h4>Branding</h4>
                             </div>
                             <div className="branding-list">
@@ -34,7 +34,7 @@ const ServiceSection = () => {
                         </div>
                         <div className="ui-ux-design">
                             <div className="design-title">
-                                <img src={uxDesign} alt="" />
+                                <img src={uxDesign} alt="uxDesign" />
                                 <h4>UI/UX Design</h4>
                             </div>
                             <div className="design-list">
@@ -51,7 +51,7 @@ const ServiceSection = () => {
                         </div>
                         <div className="development">
                             <div className="development-title">
-                                <img src={uxDesign} alt="" />
+                                <img src={uxDesign} alt="uxDesign" />
                                 <h4>Development</h4>
                             </div>
                             <div className="development-list">

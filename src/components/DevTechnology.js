@@ -37,32 +37,32 @@ const DevTechnology = () => {
                 {activeTab === 1 && (
                   <div id="London" class="tabcontent">
                       <div className="dev-tech-logo">
-                          <img src={PHP} alt="" />
-                          <img src={JS} alt="" />
-                          <img src={HTML} alt="" />
-                          <img src={CSS} alt="" />
-                          <img src={SHELL} alt="" />
+                          <img src={PHP} alt="PHP" />
+                          <img src={JS} alt="JS" />
+                          <img src={HTML} alt="HTML" />
+                          <img src={CSS} alt="CSS" />
+                          <img src={SHELL} alt="SHELL" />
                       </div>
                   </div>
                 )}
 
                 {activeTab === 2 && (
                   <div id="London" class="tabcontent">
-                      <div className="dev-tech-logo">
-                          <img src={PHP} alt="" />
-                          <img src={JS} alt="" />
-                          <img src={HTML} alt="" />
-                          <img src={CSS} alt="" />
-                      </div>
+                    <div className="dev-tech-logo">
+                        <img src={PHP} alt="PHP" />
+                        <img src={JS} alt="JS" />
+                        <img src={HTML} alt="HTML" />
+                        <img src={CSS} alt="CSS" />
+                    </div>
                   </div>
                 )}
 
                 {activeTab === 3 && (
                   <div id="London" class="tabcontent">
                       <div className="dev-tech-logo">
-                          <img src={PHP} alt="" />
-                          <img src={JS} alt="" />
-                          <img src={HTML} alt="" />
+                          <img src={PHP} alt="PHP" />
+                          <img src={JS} alt="JS" />
+                          <img src={HTML} alt="HTML" />
                       </div>
                   </div>
                 )}
@@ -70,11 +70,11 @@ const DevTechnology = () => {
                 {activeTab === 4 && (
                   <div id="London" class="tabcontent">
                       <div className="dev-tech-logo">
-                          <img src={PHP} alt="" />
-                          <img src={JS} alt="" />
-                          <img src={HTML} alt="" />
-                          <img src={CSS} alt="" />
-                          <img src={SHELL} alt="" />
+                          <img src={PHP} alt="PHP" />
+                          <img src={JS} alt="JS" />
+                          <img src={HTML} alt="HTML" />
+                          <img src={CSS} alt="CSS" />
+                          <img src={SHELL} alt="SHELL" />
                       </div>
                   </div>
                 )}

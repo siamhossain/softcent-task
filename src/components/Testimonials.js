@@ -32,7 +32,7 @@ const Testimonials = () => {
                 <div className="testimonial-heading">
                     <h1>Talk About Us!</h1>
                     <div className="workflow-heading-underline">
-                        <img src={testimonialUnderline} alt="" />
+                        <img src={testimonialUnderline} alt="testimonialUnderline" />
                     </div>
                 </div> 
                 

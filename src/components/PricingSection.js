@@ -10,7 +10,7 @@ const PricingSection = () => {
                 <div className="pricing-heading">
                     <h1>Pricing Package Choose Your Plan</h1>
                     <div className="pricing-heading-underline">
-                        <img src={pricingUnderline} alt="" />
+                        <img src={pricingUnderline} alt="pricingUnderline" />
                     </div>
                     <div className="sub-text">
                         <p>We believe that great design should not be out of reach, so our services<br/> are less than half the price of a full-time designer.</p>

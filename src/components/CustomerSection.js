@@ -16,15 +16,15 @@ import APPSERO from '../assets/images/appsero.png';
                 <div className="our-customers-heading">
                     <h1>Our Customers</h1>
                     <div className="customer-heading-underline">
-                        <img src={customerUnderline} alt="" />
+                        <img src={customerUnderline} alt="customerUnderline" />
                     </div>
                 </div>  
               
                 <div className="customers-logo">
-                    <img src={UBS} alt="" />
-                    <img src={HSBC} alt="" />
-                    <img src={FITLAB} alt="" />
-                    <img src={APPSERO} alt="" />
+                    <img src={UBS} alt="UBS" />
+                    <img src={HSBC} alt="HSBC" />
+                    <img src={FITLAB} alt="FITLAB" />
+                    <img src={APPSERO} alt="APPSERO" />
                 </div>
             </div>
         </div>

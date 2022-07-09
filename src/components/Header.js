@@ -11,10 +11,10 @@ const Header = () => {
     <div>
         <div className="header-section">
             <div className="header-bg-shadow1">
-                <img src={headerShadow1} alt="" />
+                <img src={headerShadow1} alt="headerShadow1" />
             </div>
             <div className="header-shadow2">
-                <img src={headerShadow2} alt="" />
+                <img src={headerShadow2} alt="headerShadow2" />
             </div>
             <div className="container">
                 <div className="nav">
@@ -23,7 +23,7 @@ const Header = () => {
                             <td>
                                 <div className="logo">
                                     <a href="/">
-                                        <img src={logo} alt="" />
+                                        <img src={logo} alt="logo" />
                                     </a>
                                 </div>
                             </td>

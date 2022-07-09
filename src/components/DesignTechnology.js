@@ -17,16 +17,16 @@ import PS from '../assets/images/Ps.png';
                 <div className="design-tech-heading">
                     <h1>Our Design Technology</h1>
                     <div className="design-tech-heading-underline">
-                        <img src={designTechUnderline} alt="" />
+                        <img src={designTechUnderline} alt="designTechUnderline" />
                     </div>
                 </div>  
               
                 <div className="design-tech-logo">
-                    <img src={FIGMA} alt="" />
-                    <img src={IN} alt="" />
-                    <img src={XD} alt="" />
-                    <img src={PS} alt="" />
-                    <img src={AI} alt="" />
+                    <img src={FIGMA} alt="FIGMA" />
+                    <img src={IN} alt="IN" />
+                    <img src={XD} alt="XD" />
+                    <img src={PS} alt="PS" />
+                    <img src={AI} alt="AI" />
                 </div>
             </div>
         </div>

@@ -59,17 +59,17 @@ const Portfolio = () => {
                 <div className="portfolio-heading-area">
                     <h1>Our Portfolio</h1>
                     <div className="service-heading-underline">
-                        <img src={portfolioUnderline} alt="" />
+                        <img src={portfolioUnderline} alt="portfolioUnderline" />
                     </div>
                 </div>
 
                 <div className="portfolio-slider">
                     <Slider {...settings}>
-                        <img src={colorDesign} alt="" />
-                        <img src={logoDesign} alt="" />
-                        <img src={uiDesign} alt="" />
-                        <img src={colorDesign} alt="" />
-                        <img src={uiDesign} alt="" />
+                        <img src={colorDesign} alt="colorDesign" />
+                        <img src={logoDesign} alt="logoDesign" />
+                        <img src={uiDesign} alt="uiDesign" />
+                        <img src={colorDesign} alt="colorDesign" />
+                        <img src={uiDesign} alt="uiDesign" />
                     </Slider>
                 </div>
 

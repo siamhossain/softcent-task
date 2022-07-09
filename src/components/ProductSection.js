@@ -13,7 +13,7 @@ const ProductSection = () => {
                     <div>
                         <h1>Our Products</h1>
                         <div className="service-heading-underline">
-                            <img src={productHeadinUnderline} alt="" />
+                            <img src={productHeadinUnderline} alt="productHeadinUnderline" />
                         </div>
                         <p>We believe that great design should not be out of reach, so our services are less than half the price of a full-time designer.</p>
                     </div>
@@ -32,13 +32,13 @@ const ProductSection = () => {
                     </div>
                 </div>
                 <div className="product-img">
-                    <img src={Product1} alt="" />
+                    <img src={Product1} alt="Product1" />
                 </div>
             </div>
 
             <div className="product-and-details2">
                 <div className="product-img">
-                    <img src={Product2} alt="" />
+                    <img src={Product2} alt="Product2" />
                 </div>
                 <div className="product-text-content">
                     <h1>Cashback Product</h1>
